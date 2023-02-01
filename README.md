@@ -40,3 +40,9 @@ tcp_server.c answers:
 7. fork() creates a new process that runs concurrently with the process that makes the call.
 
 8. A system call is a way for programmers to interact with the OS, in this case it is the Linux Kernel.
+
+Sources:
+- https://www.ibm.com/docs/en/aix/7.1?topic=volumes-using-file-descriptors
+- https://www.ibm.com/docs/en/zos/2.4.0?topic=functions-listen-prepare-server-incoming-client-requests
+- https://www.ibm.com/docs/en/zos/2.4.0?topic=functions-bind-bind-name-socket
+- https://www.geeksforgeeks.org/fork-system-call/
