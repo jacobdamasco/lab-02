@@ -9,7 +9,7 @@ import socket
 
 def main():
 
-    HOST = "localhost"
+    HOST = "172.20.10.3"
     PORT = 5000
 
     # TODO: Create a socket and connect it to the server at the designated IP and port
